@@ -1,6 +1,6 @@
 # Tóm tắt cực gọn
 ## Công thức:
-![[Pasted image 20240120211742.png]]
+[[Pasted image 20240120211742.png]]
 ![[Pasted image 20240120211804.png]]
 ![[Pasted image 20240120211825.png]]
 ![[Pasted image 20240120211916.png]]
